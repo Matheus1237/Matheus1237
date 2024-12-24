@@ -33,7 +33,9 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 
 
 
-# ⚙️ GitHub Analytics
+<p align="center">
+  <strong>⚙️ GitHub Analytics</strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/Matheus1237" title="Perfil do Iuri">
