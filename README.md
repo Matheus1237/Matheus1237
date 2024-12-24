@@ -2,7 +2,7 @@
 
 Desenvolvedor backend com experiência em Python e Django. Especialista em criar soluções escaláveis e eficientes, utilizando bancos de dados e computação em nuvem (AWS).
 
-### Experiência de trabalho
+## Experiência de trabalho
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="media/shoplogo.png"/>](https://www.shoppub.com.br/)
 
@@ -12,9 +12,9 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 <br/>
 <br/>
 
-### Projetos
+## Projetos
 
-### 1. **Gallery Space**
+### 🌌**Gallery Space**
 **Descrição:** Aplicação para gerenciamento de galerias de imagens com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3.
 
 **Tecnologias:** Python, Django, Postgres, Amazon S3, HTML, CSS.
