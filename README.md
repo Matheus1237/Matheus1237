@@ -14,12 +14,10 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 
 ## Projetos
 
-### 🌌 **Gallery Space**
+### 🌌 **Gallery Space** - **[Ver Repositório](https://github.com/Matheus1237/gallery_space)**
 **Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3.**
 
-**Python, Django, Postgres, Amazon S3, HTML, CSS.**
-
-**[Ver Repositório](https://github.com/Matheus1237/gallery_space)**
+**Tecnologias: Python, Django, Postgres, Amazon S3, HTML, CSS.**
 
 <a href="https://github.com/Matheus1237" title="Perfil do Iuri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus1237&theme=dracula&show_icons=true" />
