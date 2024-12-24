@@ -2,7 +2,7 @@
 
 **Desenvolvedor backend com experiência em Python e Django. Especialista em criar soluções escaláveis e eficientes, utilizando bancos de dados e computação em nuvem (AWS).**
 
-## 💻 Experiência de trabalho
+# 💻 Experiência de trabalho
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="media/shoplogo.png"/>](https://www.shoppub.com.br/)
 
@@ -12,12 +12,12 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 <br/>
 <br/>
 
-## 🚀 Projetos
+# 🚀 Projetos
 
-### 🌌 **Gallery Space** - [Clique aqui](https://galleryspace-production.up.railway.app/)
+## 🌌 **Gallery Space** - [Clique aqui](https://galleryspace-production.up.railway.app/)
 **Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3.**
 
-## 🚀 Minhas Skills
+# 🚀 Minhas Skills
 
 <div style="display: flex; gap: 10px;">
   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python"/>
@@ -33,14 +33,13 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 
 
 
-## ⚙️ GitHub Analytics
+# ⚙️ GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Matheus1237" title="Perfil do Iuri">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus1237&theme=dracula&show_icons=true" />
   </a>
 </p>
-<br/>
 <br/>
 
 <p align="center">
