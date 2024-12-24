@@ -21,14 +21,15 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-7-569075.png" alt="python"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/django-2-569613.png" alt="django"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/html-5-3521666.png" alt="html"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175046.png" alt="css"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/amazon-s3-4-1175142.png" alt="aws s3"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/docker-10-1175160.png" alt="docker"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-7-1175170.png" alt="postgresql"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/sqlite-4-1175183.png" alt="sqlite"/></code>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python"/>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Django_logo_2016.svg" alt="django"/>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_Logo_256.png" alt="html"/>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css"/>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Amazon_S3_logo.svg" alt="aws s3"/>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_Logo.png" alt="docker"/>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg" alt="postgresql"/>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/47/SQLite_Logo.svg" alt="sqlite"/>
+
 
 ## ⚙️ GitHub Analytics
 
