@@ -12,7 +12,7 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus1237&theme=dracula&show_icons=true" />
 </a>
 <br/>
-
+<br/>
 
 ### 🏆 GitHub Profile Trophy
 
