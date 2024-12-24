@@ -21,13 +21,13 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python"/>
 <img height="32" src="media/icons/django-icon-svgrepo-com.svg" alt="django"/>
-<img height="32" src="" alt="html"/>
+<img height="32" src="media/icons/html-5-svgrepo-com.svg" alt="html"/>
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css"/>
-<img height="32" src="" alt="aws s3"/>
-<img height="32" src="" alt="docker"/>
-<img height="32" src="" alt="postgresql"/>
-<img height="32" src="" alt="sqlite"/>
-<img height="32" src="" alt="git"/>
+<img height="32" src="media/icons/aws-svgrepo-com.svg" alt="aws s3"/>
+<img height="32" src="media/icons/docker-svgrepo-com.svg" alt="docker"/>
+<img height="32" src="media/icons/sql-svgrepo-com.svg" alt="postgresql"/>
+<img height="32" src="media/icons/sql-database-generic-svgrepo-com.svg" alt="sqlite"/>
+<img height="32" src="media/icons/git-svgrepo-com.svg" alt="git"/>
 
 
 ## ⚙️ GitHub Analytics
