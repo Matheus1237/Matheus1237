@@ -14,10 +14,10 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 
 ## Projetos
 
-### 🌌**Gallery Space**
-**Descrição:** Aplicação para gerenciamento de galerias de imagens com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3.
+### 🌌 **Gallery Space**
+**Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3.**
 
-**Tecnologias:** Python, Django, Postgres, Amazon S3, HTML, CSS.
+**Python, Django, Postgres, Amazon S3, HTML, CSS.**
 
 **[Ver Repositório](https://github.com/Matheus1237/gallery_space)**
 
