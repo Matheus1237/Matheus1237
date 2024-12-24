@@ -17,18 +17,17 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 ### 🌌 **Gallery Space** - [Ver Repositório](https://github.com/Matheus1237/gallery_space)
 **Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3.**
 
-**Tecnologias: Python, Django, Postgres, Amazon S3, HTML, CSS.**
-
 ## 🚀 Minhas Skills
 
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python"/>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Django_logo_2016.svg" alt="django"/>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_Logo_256.png" alt="html"/>
+<img height="32" src="media/icons/django-icon-svgrepo-com.svg" alt="django"/>
+<img height="32" src="" alt="html"/>
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css"/>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Amazon_S3_logo.svg" alt="aws s3"/>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_Logo.png" alt="docker"/>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg" alt="postgresql"/>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/47/SQLite_Logo.svg" alt="sqlite"/>
+<img height="32" src="" alt="aws s3"/>
+<img height="32" src="" alt="docker"/>
+<img height="32" src="" alt="postgresql"/>
+<img height="32" src="" alt="sqlite"/>
+<img height="32" src="" alt="git"/>
 
 
 ## ⚙️ GitHub Analytics
