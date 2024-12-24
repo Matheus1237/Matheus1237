@@ -12,7 +12,7 @@
 
 # 🚀 Projetos
 
-## 🌌 Gallery Space - Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3. [Clique aqui](https://galleryspace-production.up.railway.app/)
+## 🌌 Gallery Space - Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3. [Acesse.](https://galleryspace-production.up.railway.app/)
 
 # 🚀 Minhas Skills
 
