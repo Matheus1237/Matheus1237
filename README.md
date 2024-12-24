@@ -4,7 +4,7 @@
 
 # 💻 Experiência de trabalho
 
-[<img align="left" height="140px" width="140px" alt="Warpnet" src="media/shoplogo.png"/>](https://www.shoppub.com.br/)
+[<img align="left" height="135px" width="135px" alt="Warpnet" src="media/shoplogo.png"/>](https://www.shoppub.com.br/)
 
 ### Desenvolvedor Backend
 ### [Shoppub - Palataforma de E-commerce](https://www.shoppub.com.br/)
