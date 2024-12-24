@@ -1,8 +1,8 @@
-# Olá 👋, meu nome é Matheus!
+# 👋 Olá , meu nome é Matheus!
 
 Desenvolvedor backend com experiência em Python e Django. Especialista em criar soluções escaláveis e eficientes, utilizando bancos de dados e computação em nuvem (AWS).
 
-## Experiência de trabalho
+## 💻 Experiência de trabalho
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="media/shoplogo.png"/>](https://www.shoppub.com.br/)
 
@@ -12,18 +12,19 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 <br/>
 <br/>
 
-## Projetos
+## 🚀 Projetos
 
 ### 🌌 **Gallery Space** - **[Ver Repositório](https://github.com/Matheus1237/gallery_space)**
 **Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3.**
 
 **Tecnologias: Python, Django, Postgres, Amazon S3, HTML, CSS.**
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <a href="https://github.com/Matheus1237" title="Perfil do Iuri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus1237&theme=dracula&show_icons=true" />
 </a>
+<br/>
 <br/>
 
 <p align="center">
