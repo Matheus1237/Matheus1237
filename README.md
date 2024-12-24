@@ -14,7 +14,7 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 
 ## 🚀 Projetos
 
-### 🌌 **Gallery Space** - [Acesse:](https://galleryspace-production.up.railway.app/)
+### 🌌 **Gallery Space** - [Clique aqui](https://galleryspace-production.up.railway.app/)
 **Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3.**
 
 ## 🚀 Minhas Skills
@@ -23,7 +23,7 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 <img height="32" src="media/icons/django-icon-svgrepo-com.svg" alt="django"/>
 <img height="32" src="media/icons/html-5-svgrepo-com.svg" alt="html"/>
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css"/>
-<img height="32" src="media/icons/aws-svgrepo-com.svg" alt="awss3"/>
+<img height="32" src="media/icons/aws-svgrepo-com (1).svg" alt="awss3"/>
 <img height="32" src="media/icons/docker-svgrepo-com.svg" alt="docker"/>
 <img height="32" src="media/icons/sql-svgrepo-com.svg" alt="postgresql"/>
 <img height="32" src="media/icons/sql-database-generic-svgrepo-com.svg" alt="sqlite"/>
