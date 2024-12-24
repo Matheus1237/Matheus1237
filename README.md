@@ -1,21 +1,21 @@
 # 👋 Olá , meu nome é Matheus!
 
-**Desenvolvedor backend com experiência em Python e Django. Especialista em criar soluções escaláveis e eficientes, utilizando bancos de dados e computação em nuvem (AWS).**
+### Desenvolvedor backend com experiência em Python e Django. Especialista em criar soluções escaláveis e eficientes, utilizando bancos de dados e computação em nuvem (AWS).
 
 # 💻 Experiência de trabalho
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="media/shoplogo.png"/>](https://www.shoppub.com.br/)
 
-**Desenvolvedor Backend** \
-[**Shoppub - Palataforma de E-commerce**](https://www.shoppub.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `Docker`, `AWS`\
+### Desenvolvedor Backend \
+### [**Shoppub - Palataforma de E-commerce**](https://www.shoppub.com.br/) • Full-time \
+### Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `Docker`, `AWS`\
 <br/>
 <br/>
 
 # 🚀 Projetos
 
 ## 🌌 **Gallery Space** - [Clique aqui](https://galleryspace-production.up.railway.app/)
-**Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3.**
+### Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3.
 
 # 🚀 Minhas Skills
 
