@@ -1,6 +1,6 @@
 # 👋 Olá , meu nome é Matheus!
 
-Desenvolvedor backend com experiência em Python e Django. Especialista em criar soluções escaláveis e eficientes, utilizando bancos de dados e computação em nuvem (AWS).
+**Desenvolvedor backend com experiência em Python e Django. Especialista em criar soluções escaláveis e eficientes, utilizando bancos de dados e computação em nuvem (AWS).**
 
 ## 💻 Experiência de trabalho
 
@@ -14,7 +14,7 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 
 ## 🚀 Projetos
 
-### 🌌 **Gallery Space** - **[Ver Repositório](https://github.com/Matheus1237/gallery_space)**
+### 🌌 **Gallery Space** - [Ver Repositório](https://github.com/Matheus1237/gallery_space)
 **Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3.**
 
 **Tecnologias: Python, Django, Postgres, Amazon S3, HTML, CSS.**
