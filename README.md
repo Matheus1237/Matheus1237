@@ -9,8 +9,6 @@
 ### Desenvolvedor Backend \
 ### [**Shoppub - Palataforma de E-commerce**](https://www.shoppub.com.br/) • Full-time \
 ### Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `Docker`, `AWS`\
-<br/>
-<br/>
 
 # 🚀 Projetos
 
