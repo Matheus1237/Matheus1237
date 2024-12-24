@@ -35,11 +35,11 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 
 ## ⚙️ GitHub Analytics
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<p align="center">
   <a href="https://github.com/Matheus1237" title="Perfil do Iuri">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus1237&theme=dracula&show_icons=true" />
   </a>
-</div>
+</p>
 <br/>
 <br/>
 
