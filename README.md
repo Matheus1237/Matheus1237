@@ -9,11 +9,11 @@
 ### Desenvolvedor Backend
 ### [Shoppub - Palataforma de E-commerce](https://www.shoppub.com.br/)
 ### `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `Docker`, `AWS`
-
+<br/>
 # 🚀 Projetos
 
 ## 🌌 Gallery Space - Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3. [Acesse.](https://galleryspace-production.up.railway.app/)
-
+<br/>
 # 🚀 Minhas Skills
 
 <div style="display: flex; gap: 10px;">
@@ -27,7 +27,7 @@
   <img height="32" src="media/icons/sql-database-generic-svgrepo-com.svg" alt="sqlite"/>
   <img height="32" src="media/icons/git-svgrepo-com.svg" alt="git"/>
 </div>
-
+<br/>
 
 
 # ⚙️ GitHub Analytics
