@@ -1,6 +1,6 @@
 ## Olá 👋, meu nome é Matheus!
 
-Sou desenvolvedor backend com ampla experiência em Python e Django, onde tenho desenvolvido e escalado soluções robustas e de alta performance, especialmente para plataformas de e-commerce. Tenho grande expertise em Django, utilizando seus recursos avançados para construir aplicações rápidas e eficientes. Além disso, trabalho com bancos de dados e AWS para garantir a escalabilidade e disponibilidade das soluções.
+Desenvolvedor backend com experiência em Python, Django e e-commerce. Especialista em criar soluções escaláveis e eficientes, utilizando bancos de dados e computação em nuvem (AWS).
 
 ### Experiência de trabalho
 
