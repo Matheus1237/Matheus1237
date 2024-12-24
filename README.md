@@ -34,7 +34,7 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 
 
 <p align="center">
-  <strong>⚙️ GitHub Analytics</strong>
+  <h1>⚙️ GitHub Analytics</h1>
 </p>
 
 <p align="center">
