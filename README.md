@@ -7,13 +7,12 @@
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="media/shoplogo.png"/>](https://www.shoppub.com.br/)
 
 ### Desenvolvedor Backend \
-### [**Shoppub - Palataforma de E-commerce**](https://www.shoppub.com.br/) • Full-time \
-### Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `Docker`, `AWS`\
+### [Shoppub - Palataforma de E-commerce](https://www.shoppub.com.br/) \
+### `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `Docker`, `AWS`\
 
 # 🚀 Projetos
 
-## 🌌 **Gallery Space** - [Clique aqui](https://galleryspace-production.up.railway.app/)
-
+## 🌌 Gallery Space - [Clique aqui](https://galleryspace-production.up.railway.app/)
 ### Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3.
 
 # 🚀 Minhas Skills
