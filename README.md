@@ -19,15 +19,18 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 
 ## 🚀 Minhas Skills
 
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" style="display: inline-block;"/>
-<img height="32" src="media/icons/django-icon-svgrepo-com.svg" alt="django" style="display: inline-block;"/>
-<img height="32" src="media/icons/html-5-svgrepo-com.svg" alt="html" style="display: inline-block;"/>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" style="display: inline-block;"/>
-<img height="32" src="media/icons/aws-svgrepo-com.svg" alt="awss3" style="display: inline-block;"/>
-<img height="32" src="media/icons/docker-svgrepo-com.svg" alt="docker" style="display: inline-block;"/>
-<img height="32" src="media/icons/sql-svgrepo-com.svg" alt="postgresql" style="display: inline-block;"/>
-<img height="32" src="media/icons/sql-database-generic-svgrepo-com.svg" alt="sqlite" style="display: inline-block;"/>
-<img height="32" src="media/icons/git-svgrepo-com.svg" alt="git" style="display: inline-block;"/>
+<div style="display: flex; gap: 10px;">
+  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python"/>
+  <img height="32" src="media/icons/django-icon-svgrepo-com.svg" alt="django"/>
+  <img height="32" src="media/icons/html-5-svgrepo-com.svg" alt="html"/>
+  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css"/>
+  <img height="32" src="media/icons/aws-svgrepo-com.svg" alt="awss3"/>
+  <img height="32" src="media/icons/docker-svgrepo-com.svg" alt="docker"/>
+  <img height="32" src="media/icons/sql-svgrepo-com.svg" alt="postgresql"/>
+  <img height="32" src="media/icons/sql-database-generic-svgrepo-com.svg" alt="sqlite"/>
+  <img height="32" src="media/icons/git-svgrepo-com.svg" alt="git"/>
+</div>
+
 
 
 ## ⚙️ GitHub Analytics
