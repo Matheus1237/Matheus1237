@@ -1,10 +1,14 @@
+## Olá 👋, meu nome é Matheus!
+
+Sou desenvolvedor backend com ampla experiência em Python e Django, onde tenho desenvolvido e escalado soluções robustas e de alta performance, especialmente para plataformas de e-commerce. Tenho grande expertise em Django, utilizando seus recursos avançados para construir aplicações rápidas e eficientes. Além disso, trabalho com bancos de dados e AWS para garantir a escalabilidade e disponibilidade das soluções.
+
 ### Experiência de trabalho
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="media/shoplogo.png"/>](https://www.shoppub.com.br/)
 
 **Desenvolvedor Backend** \
 [**Shoppub**](https://www.shoppub.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `Docker`, `AWS`,\
+Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `Docker`, `AWS`\
 <br/>
 <br/>
 
@@ -30,7 +34,7 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 ---
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍Profile Visitor Count</b></h3>
 </div>
 
 <p align="center">
