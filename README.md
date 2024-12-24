@@ -14,7 +14,7 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 
 ## 🚀 Projetos
 
-### 🌌 **Gallery Space** - [Ver Repositório](https://github.com/Matheus1237/gallery_space)
+### 🌌 **Gallery Space** - [Acesse:](https://galleryspace-production.up.railway.app/)
 **Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3.**
 
 ## 🚀 Minhas Skills
