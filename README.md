@@ -19,6 +19,17 @@ Linguagens & Tecnologias: `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `
 
 **Tecnologias: Python, Django, Postgres, Amazon S3, HTML, CSS.**
 
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-7-569075.png" alt="python"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/django-2-569613.png" alt="django"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/html-5-3521666.png" alt="html"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175046.png" alt="css"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/amazon-s3-4-1175142.png" alt="aws s3"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/docker-10-1175160.png" alt="docker"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-7-1175170.png" alt="postgresql"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/sqlite-4-1175183.png" alt="sqlite"/></code>
+
 ## ⚙️ GitHub Analytics
 
 <a href="https://github.com/Matheus1237" title="Perfil do Iuri">
