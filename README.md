@@ -9,7 +9,7 @@
 
 ### Desenvolvedor Backend
 ### [Shoppub - Palataforma de E-commerce](https://www.shoppub.com.br/)
-### `Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `Docker`, `AWS`
+**`Python`, `Django`, `HTML`, `CSS`, `JS`, `Postgres`, `Docker`, `AWS`**
 <br/>
 
 # 🚀 Projetos
