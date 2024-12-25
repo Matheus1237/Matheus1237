@@ -5,7 +5,7 @@
 
 # 💻 Experiência de trabalho
 
-[<img align="left" height="130px" width="130px" alt="Warpnet" src="media/shoplogo.png"/>](https://www.shoppub.com.br/)
+[<img align="left" height="90px" width="90px" alt="Warpnet" src="media/shoplogo.png"/>](https://www.shoppub.com.br/)
 
 ### Desenvolvedor Backend
 ### [Shoppub - Palataforma de E-commerce](https://www.shoppub.com.br/)
@@ -14,7 +14,7 @@
 
 # 🚀 Projetos
 
-## 🌌 Gallery Space - Site de galeria de fotos do Espaço com CRUD completo, integração com banco de dados e armazenamento de imagens no Amazon S3. [Acesse.](https://galleryspace-production.up.railway.app/)
+## 🌌 Gallery Space - Galeria de fotos do Espaço com CRUD e autenticação de usuários, integração com banco de dados e armazenamento de imagens no Amazon S3. [Acesse.](https://galleryspace-production.up.railway.app/)
 <br/>
 
 # 🚀 Minhas Skills
