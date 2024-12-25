@@ -31,11 +31,14 @@
 </div>
 <br/>
 
+# ✉️ Contato
+
+## [LinkedIn](www.linkedin.com/in/matheus-antunes-717ab42b4) | [Email](masian202207@gmail.com) | [WhatsApp](https://wa.me/5574988035202)
 
 # ⚙️ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Matheus1237" title="Perfil do Iuri">
+  <a href="https://github.com/Matheus1237" title="Perfil do Matheus">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus1237&theme=dracula&show_icons=true" />
   </a>
 </p>
@@ -43,7 +46,7 @@
 
 <p align="center">
   <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
+    href="https://github.com/Matheus1237/github-profile-trophy"
     title="repositório de troféus"
   >
     <img
