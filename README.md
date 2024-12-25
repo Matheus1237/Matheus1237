@@ -33,11 +33,14 @@
 
 # ✉️ Contato
 
-Você pode me encontrar pelos seguintes canais:
+### **LinkedIn**:
+[Matheus Antunes](https://www.linkedin.com/in/matheus-antunes-717ab42b4/)
 
-- **LinkedIn**: [Matheus Antunes](https://www.linkedin.com/in/matheus-antunes-717ab42b4/)
-- **Email**: [masian202207@gmail.com](mailto:masian202207@gmail.com)
-- **WhatsApp**: [+55 74 98803-5202](https://wa.me/5574988035202)
+### **Email**:
+[masian202207@gmail.com](mailto:masian202207@gmail.com)
+
+### **WhatsApp**:
+[+55 74 98803-5202](https://wa.me/5574988035202)
 
 # ⚙️ GitHub Analytics
 
