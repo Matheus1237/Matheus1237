@@ -7,7 +7,7 @@
 
 [<img align="left" height="90px" width="90px" alt="Warpnet" src="media/shoplogo.png"/>](https://www.shoppub.com.br/)
 
-### Desenvolvedor Backend
+### Desenvolvedor Backend / Python e Django
 ### [Shoppub - Palataforma de E-commerce](https://www.shoppub.com.br/)
 <br/>
 
