@@ -33,7 +33,7 @@
 
 # ✉️ Contato
 
-## [LinkedIn](www.linkedin.com/in/matheus-antunes-717ab42b4) | [Email](masian202207@gmail.com) | [WhatsApp](https://wa.me/5574988035202)
+## Linkedin - https://www.linkedin.com/in/matheus-antunes-717ab42b4/ Email - mailto:masian202207@gmail.com WhatsApp - 5574988035202
 
 # ⚙️ GitHub Analytics
 
