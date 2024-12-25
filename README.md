@@ -1,6 +1,6 @@
 # 👋 Olá , meu nome é Matheus!
 
-### Desenvolvedor backend com experiência em Python e Django. Especialista em criar soluções escaláveis e eficientes, utilizando bancos de dados e computação em nuvem (AWS).
+## Desenvolvedor backend com experiência em Python e Django. Especialista em criar soluções escaláveis e eficientes, utilizando bancos de dados e computação em nuvem (AWS).
 <br/>
 
 # 💻 Experiência de trabalho
