@@ -13,6 +13,8 @@
 
 # 🚀 Projetos
 
+<img align="left" height="60px" width="60px" alt="Warpnet" src="media/Logo(2).png"/>
+
 ## 🌌 Gallery Space - Galeria de fotos do Espaço com CRUD e autenticação de usuários, integração com banco de dados e armazenamento de imagens no Amazon S3. [Acesse.](https://galleryspace-production.up.railway.app/)
 <br/>
 
