@@ -1,5 +1,4 @@
 ## Desenvolvedor Backend especializado em Python e Django, com experiência em Bancos de Dados, Computação em Nuvem (AWS), integração com métodos de pagamentos e CRM's.
-<br/>
 
 # 💻 Experiência de trabalho
 
