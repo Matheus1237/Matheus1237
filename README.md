@@ -26,7 +26,6 @@
   <img height="50" src="media/icons/sql-database-generic-svgrepo-com.svg" alt="sqlite"/>
   <img height="50" src="media/icons/git-svgrepo-com.svg" alt="git"/>
 </div>
-<br/>
 
 # ✉️ Contato
 
