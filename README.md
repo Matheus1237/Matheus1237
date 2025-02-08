@@ -10,10 +10,9 @@
 
 # 🚀 Projetos
 
+## 📦 Suppliers Manager - Sistema de gerenciamento de fornecedores com funcionalidades de cadastro, edição, exclusão e consulta. Integração com banco de dados para armazenar informações dos fornecedores, interface de fácil acesso para gerenciar contatos, produtos, prazos e pagamentos. Otimiza o relacionamento com fornecedores, melhorando o controle e a tomada de decisões.
+
 ## 🌌 Gallery Space - Galeria de fotos do Espaço com CRUD e autenticação de usuários, integração com banco de dados e armazenamento de imagens no Amazon S3.
-
-## 📦 Suppliers Manager - Sistema de gerenciamento de fornecedores com funcionalidades de cadastro, edição, exclusão e consulta. Integração com banco de dados para armazenar informações dos fornecedores, interface de fácil acesso para gerenciar contatos, produtos, prazos e pagamento. Otimiza o relacionamento com fornecedores, melhorando o controle e a tomada de decisões.
-
 
 # 🚀 Minhas Skills
 
