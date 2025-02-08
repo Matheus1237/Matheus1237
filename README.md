@@ -10,9 +10,9 @@
 
 # 🚀 Projetos
 
-## 🌌 Gallery Space - Galeria de fotos do Espaço com CRUD e autenticação de usuários, integração com banco de dados e armazenamento de imagens no Amazon S3. [Acesse.]()
+## 🌌 Gallery Space - Galeria de fotos do Espaço com CRUD e autenticação de usuários, integração com banco de dados e armazenamento de imagens no Amazon S3.
 
-## 📦 Suppliers Manager - Sistema de gerenciamento de fornecedores com funcionalidades de cadastro, edição, exclusão e consulta. O projeto inclui a integração com um banco de dados para armazenar informações dos fornecedores, além de oferecer uma interface de fácil acesso para gerenciar dados como contatos, produtos fornecidos, prazos de entrega e condições de pagamento. A plataforma permite otimizar o relacionamento com fornecedores, melhorando o controle e a tomada de decisões. [Acesse.] ()
+## 📦 Suppliers Manager - Sistema de gerenciamento de fornecedores com funcionalidades de cadastro, edição, exclusão e consulta. Integração com banco de dados para armazenar informações dos fornecedores, interface de fácil acesso para gerenciar contatos, produtos, prazos e pagamento. Otimiza o relacionamento com fornecedores, melhorando o controle e a tomada de decisões.
 
 
 # 🚀 Minhas Skills
