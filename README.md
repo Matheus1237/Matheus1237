@@ -13,7 +13,7 @@
 ## 📦 Suppliers Manager - Sistema de gerenciamento de fornecedores com funcionalidades de cadastro, edição, exclusão e consulta. Integração com banco de dados para armazenar informações dos fornecedores, interface de fácil acesso para gerenciar contatos, produtos, prazos e pagamentos. Otimiza o relacionamento com fornecedores, melhorando o controle e a tomada de decisões. [ACESSE](https://impartial-kindness-production.up.railway.app/)
 
 
-## 🌌 Gallery Space - Galeria de fotos do Espaço com CRUD e autenticação de usuários, integração com banco de dados e armazenamento de imagens no Amazon S3. [ACESSE](https://impartial-kindness-production.up.railway.app/)](https://galleryspace-production-abc8.up.railway.app/)
+## 🌌 Gallery Space - Galeria de fotos do Espaço com CRUD e autenticação de usuários, integração com banco de dados e armazenamento de imagens no Amazon S3. [ACESSE](https://galleryspace-production-abc8.up.railway.app/)
 
 # 🚀 Minhas Skills
 
