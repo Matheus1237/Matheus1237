@@ -8,13 +8,6 @@
 ### [Shoppub - Palataforma de E-commerce](https://www.shoppub.com.br/)
 <br/>
 
-# 🚀 Projetos
-
-## 📦 Suppliers Manager - Sistema de gerenciamento de fornecedores com funcionalidades de cadastro, edição, exclusão e consulta. Integração com banco de dados para armazenar informações dos fornecedores, interface de fácil acesso para gerenciar contatos, produtos, prazos e pagamentos. Otimiza o relacionamento com fornecedores, melhorando o controle e a tomada de decisões.
-
-
-## 🌌 Gallery Space - Galeria de fotos do Espaço com CRUD e autenticação de usuários, integração com banco de dados e armazenamento de imagens no Amazon S3.
-
 # 🚀 Minhas Skills
 
 <div style="display: flex; gap: 10px;">
