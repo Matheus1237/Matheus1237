@@ -1,5 +1,3 @@
-## Desenvolvedor Backend especializado em Python e Django, com experiência em Bancos de Dados, Computação em Nuvem (AWS), integração com métodos de pagamentos e CRM's.
-
 # 💻 Experiência de trabalho
 
 [<img align="left" height="90px" width="90px" alt="Warpnet" src="media/shoplogo.png"/>](https://www.shoppub.com.br/)
@@ -24,9 +22,9 @@
 
 # ✉️ Contato
 
-### **LinkedIn**: [Matheus Antunes](https://www.linkedin.com/in/matheus-antunes-717ab42b4/)
+### **LinkedIn**: [Matheus Antunes](https://www.linkedin.com/in/matheus-antunes-99b369361/)
 
-### **Email**: [masian202207@gmail.com](mailto:masian202207@gmail.com)
+### **Email**: [masian202207@gmail.com](mailto:matheus.silva.antunes300@gmail.com)
 
 ### **WhatsApp**: [+55 74 98803-5202](https://wa.me/5574988035202)
 
