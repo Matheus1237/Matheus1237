@@ -22,11 +22,11 @@
 
 # ✉️ Contato
 
-### **LinkedIn**: [](https://www.linkedin.com/in/matheus-antunes-99b369361/)
+### [LinkedIn](https://www.linkedin.com/in/matheus-antunes-99b369361/)
 
-### **Email**: [](mailto:matheus.silva.antunes300@gmail.com)
+### [Email](mailto:matheus.silva.antunes300@gmail.com)
 
-### **WhatsApp**: [](https://wa.me/5574988035202)
+### [WhatsApp](https://wa.me/5574988035202)
 
 # ⚙️ GitHub Analytics
 
