@@ -1,6 +1,6 @@
 # 👨‍💻 Matheus Antunes
 
-**Desenvolvedor Backend Python | Django & FastAPI**  
+**Full Stack Developer | Python | Django | FastAPI | React | HTML | CSS | JavaScript**  
 Bahia, Brasil | [LinkedIn](https://www.linkedin.com/in/matheus-antunes-99b369361/) | [Email](mailto:matheus.silva.antunes300@gmail.com) | [WhatsApp](https://wa.me/5574988035202)
 
 ---
