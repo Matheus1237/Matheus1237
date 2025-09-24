@@ -5,6 +5,21 @@ Bahia, Brasil | [LinkedIn](https://www.linkedin.com/in/matheus-antunes-99b369361
 
 ---
 
+### 💡 Projeto Pessoal
+
+**FlashLearn** – [flashlearn-x0jz.onrender.com](https://flashlearn-x0jz.onrender.com)  
+Aplicação web de **aprendizado rápido por flashcards**, focada em **produtividade e memorização**.  
+
+- Backend desenvolvido em **Python (Django)**  
+- Frontend em **HTML, CSS e JavaScript**  
+- Sistema de autenticação e gerenciamento de decks de estudo  
+- Banco de dados **PostgreSQL**  
+- Deploy em **Render** (plataforma gratuita)  
+
+Objetivo: praticar arquitetura **full stack**, otimização de queries e fluxo de **deploy em nuvem**.
+
+---
+
 ### 💼 Experiência
 
 **Backend Developer | Python & Django**  
