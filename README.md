@@ -5,6 +5,17 @@ Bahia, Brasil | [LinkedIn](https://www.linkedin.com/in/matheus-antunes-99b369361
 
 ---
 
+### 💼 Experiência
+
+**Backend Developer | Python & Django**  
+[Shoppub - Plataforma de E-commerce](https://www.shoppub.com.br/)  
+- Desenvolvimento de APIs RESTful escaláveis  
+- Integrações com gateways de pagamento e logística  
+- Otimizações de performance e automações internas  
+- Testes, CI/CD e manutenção de sistemas críticos de produção
+
+---
+
 ### 💡 Projeto Pessoal
 
 **FlashLearn** – [flashlearn-x0jz.onrender.com](https://flashlearn-x0jz.onrender.com)  
@@ -17,17 +28,6 @@ Aplicação web de **aprendizado rápido por flashcards**, focada em **produtivi
 - Deploy em **Render** (plataforma gratuita)  
 
 Objetivo: praticar arquitetura **full stack**, otimização de queries e fluxo de **deploy em nuvem**.
-
----
-
-### 💼 Experiência
-
-**Backend Developer | Python & Django**  
-[Shoppub - Plataforma de E-commerce](https://www.shoppub.com.br/)  
-- Desenvolvimento de APIs RESTful escaláveis  
-- Integrações com gateways de pagamento e logística  
-- Otimizações de performance e automações internas  
-- Testes, CI/CD e manutenção de sistemas críticos de produção
 
 ---
 
