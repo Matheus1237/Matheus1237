@@ -16,7 +16,7 @@ Bahia, Brasil | [LinkedIn](https://www.linkedin.com/in/matheus-antunes-99b369361
 
 ---
 
-### 💡 Projeto Pessoal
+### 💡 Minha Plataforma de Aprendizagem
 
 **FlashLearn** – [flashlearn-x0jz.onrender.com](https://flashlearn-x0jz.onrender.com)  
 Aplicação web de **aprendizado rápido por flashcards**, focada em **produtividade e memorização**.  
