@@ -7,7 +7,7 @@ Bahia, Brasil | [LinkedIn](https://www.linkedin.com/in/matheus-antunes-99b369361
 
 ### 💼 Experiência
 
-**Backend Developer | Python & Django**  
+**Full Stack Developer | Python & Django**  
 [Shoppub - Plataforma de E-commerce](https://www.shoppub.com.br/)  
 - Desenvolvimento de APIs RESTful escaláveis  
 - Integrações com gateways de pagamento e logística  
